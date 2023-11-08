@@ -1,5 +1,5 @@
 window.__CONFIG__ = {
   // url must NOT end with a slash
   VITE_CORS_PROXY_URL: "https://basic-bundle-frosty-silence-bec3.aymerickvalois.workers.dev",
-  VITE_TMDB_READ_API_KEY: "e4860fa2d70600252f6dc5c39663498b"
+  VITE_TMDB_READ_API_KEY: "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlNDg2MGZhMmQ3MDYwMDI1MmY2ZGM1YzM5NjYzNDk4YiIsInN1YiI6IjY1NGJmNzY5NjdiNjEzMDBjODQ5Y2M2NSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.-fr33lPEG_GFcNizHXlxVaRi67bP4gqoBh_5A6Y2IPI"
 };
